@@ -158,7 +158,7 @@ Predict an employee’s **Regular Pay** based on demographic, job-related, and o
 * **Provided practical business insights:**  
   * High pay variance is influenced by job grade, role, and overtime.  
   * Attrition is multi-factorial; predictive models help HR proactively retain talent.  
-  * Identified potential payroll anomalies for auditing purposes.
+
 
 ---
 
